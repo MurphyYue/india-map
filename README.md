@@ -2,10 +2,14 @@
 a map of india
 
 In the project directory, you can run:
-### `node api`
-先运行node api来启动server
 
-### `npm start`
+### `1 npm install`
+运行npm install安装项目依赖
+
+### `2 node api`
+运行node api来启动server
+
+### `3 npm start`
 再运行npm start来启动前端项目
 
 
