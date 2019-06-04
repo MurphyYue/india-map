@@ -139,7 +139,7 @@ class Indiamap extends React.Component {
                     name: '累计注册用户',
                     type: 'map',
                     mapType: 'india', 
-                    roam: true,
+                    roam: false,
                     itemStyle:{
                         normal:{label:{show:true}},
                         emphasis:{label:{show:true}}
